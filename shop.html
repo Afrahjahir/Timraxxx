@@ -1,0 +1,845 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+   <head>
+      <!-- Meta -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="">
+      <meta name="keywords" content="">
+      <meta name="robots" content="max-image-preview:large">
+      <!-- Page Title -->
+      <title>Goldium - Exquisite Jewelry Collections</title>
+      <!-- Favicon Icon -->
+      <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+      <!-- Google Fonts Css-->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="css2-1?family=Jost:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="css2-2?family=Corinthia:wght@400;700&display=swap" rel="stylesheet">
+      <!-- Bootstrap Css -->
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <!-- Simple Line Icons Link -->
+      <link rel="stylesheet" href="npm/simple-line-icons/css/simple-line-icons.css">
+      <!-- SlickNav Css -->
+      <link href="css/slicknav.min.css" rel="stylesheet">
+      <!-- Swiper Css -->
+      <link rel="stylesheet" href="css/swiper-bundle.min.css">
+      <!-- Font Awesome Icon Css-->
+      <link href="css/all.css" rel="stylesheet" media="screen">
+      <!-- Animated Css -->
+      <link href="css/animate.css" rel="stylesheet">
+      <!-- Magnific Popup Core Css File -->
+      <link rel="stylesheet" href="css/magnific-popup.css">
+      <!-- Audio Css File -->
+      <link rel="stylesheet" href="css/plyr.css">
+      <!-- Select2 Css File -->
+      <link rel="stylesheet" href="css/select2.css">
+      <link rel="stylesheet" href="css/select2.min.css">
+      <!-- Main Custom Css -->
+      <link href="css/custom.css" rel="stylesheet" media="screen">
+   </head>
+   <body>
+     <script>
+fetch("header.html")
+  .then(response => response.text())
+  .then(data => {
+    document.getElementById("site-header").innerHTML = data;
+  });
+</script>
+ <div id="site-header"></div>
+  <!-- Banner Section Start -->
+      <div class="sisf-banner position-relative">
+         <div class="banner-img">
+            <figure>
+               <img src="images/about-banner-2.png" alt="Goldium">
+            </figure>
+         </div>
+         <div class="sisf-page-title sisf-m sisf-title--standard sisf-alignment--center">
+            <div class="sisf-m-inner">
+               <div class="sisf-m-content sisf-content-grid ">
+                  <h1 class="sisf-m-title entry-title">Shop</h1>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Banner Section End -->
+<!-- ===== FULL LAYOUT WITH UNIFORM SECTION PADDING ===== -->
+
+<!-- ===== FULL IMAGE SECTION ===== -->
+<!-- ===== SCHOOL UNIFORM SECTION ===== -->
+<section class="full-image-section">
+  <div class="container">
+
+    <!-- ===== TITLE ===== -->
+    <div class="section-title">
+      <h2>School Uniforms</h2>
+    </div>
+
+    <!-- ===== IMAGE GRID ===== -->
+    <div class="image-grid school-grid">
+
+      <div class="img img-1">
+        <img src="/images/shop/Schooluniform4.png" alt="">
+      </div>
+
+      <div class="img img-2">
+        <img src="/images/shop/Schooluniform2.png" alt="">
+      </div>
+
+      <div class="img img-3">
+        <img src="/images/shop/Schooluniform3.png" alt="">
+      </div>
+
+      <div class="img img-4">
+        <img src="/images/shop/Schooluniform1.png" alt="">
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<!-- ===== STYLES ===== -->
+<style>
+/* ===== SECTION ===== */
+.full-image-section {
+  padding: 80px 0 40px;
+}
+
+.container {
+  width: 95%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* ===== TITLE ===== */
+.section-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.section-title h2 {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+/* ===== SCHOOL GRID (DESKTOP) ===== */
+.school-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 180px 320px;
+  gap: 22px;
+  grid-template-areas:
+    "img1 img2 img3"
+    "img1 img4 img4";
+}
+
+.school-grid .img-1 { grid-area: img1; }
+.school-grid .img-2 { grid-area: img2; }
+.school-grid .img-3 { grid-area: img3; }
+.school-grid .img-4 { grid-area: img4; }
+
+.school-grid .img {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.school-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ===== MOBILE FIX ===== */
+@media (max-width: 900px) {
+  .school-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: none;
+  }
+
+  .school-grid .img {
+    height: 220px;
+  }
+
+  .section-title h2 {
+    font-size: 30px;
+  }
+}
+</style>
+
+
+<!-- ===== TREND HERO SECTION ===== -->
+<section class="trend-hero">
+  <div class="trend-container">
+
+    <div class="section-title"> <h2>Sports Wear</h2> </div>
+
+    <div class="trend-images">
+
+      <div class="img small">
+        <img src="/images/shop/Sportswear1.png" alt="Trend 1">
+      </div>
+
+      <div class="img tall">
+        <img src="/images/shop/Sportswear2.png" alt="Trend 2">
+      </div>
+
+      <div class="img focus">
+        <img src="/images/shop/Sportswear3.png" alt="Trend 3">
+        <!-- <button class="trend-btn">Explore Collections ↗</button> -->
+      </div>
+
+      <div class="img tall">
+        <img src="/images/shop/Sportswear4.png" alt="Trend 4">
+      </div>
+
+      <div class="img small">
+        <img src="/images/shop/Sportswear5.png" alt="Trend 5">
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<!-- ===== CORE OFFERINGS SECTION ===== -->
+
+
+<!-- ===== CORE OFFERINGS SECTION WITH TITLE ===== -->
+<section class="core-section">
+  <div class="core-container">
+
+    <!-- ===== SECTION TITLE ===== -->
+   <div class="section-title"> <h2>Industries Wear</h2> </div>
+
+    <!-- ===== IMAGE GRID ===== -->
+    <div class="image-grid">
+
+      <div class="img-box big">
+        <img src="/images/shop/industrieswear1.png" alt="Boys Uniform">
+        <!-- <div class="img-text">Boys Uniform</div> -->
+      </div>
+
+      <div class="img-box big">
+        <img src="/images/shop/industrieswear3.png" alt="Girls Uniform">
+        <!-- <div class="img-text">Girls Uniform</div> -->
+      </div>
+
+      <div class="right-stack">
+        <div class="img-box">
+          <img src="/images/shop/industrieswear2.png" alt="Shirts">
+          <!-- <div class="img-text">Shirts</div> -->
+        </div>
+
+        <div class="img-box">
+          <img src="/images/shop/industrieswear4.png" alt="Shorts">
+          <!-- <div class="img-text">Shorts</div> -->
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ===== GALLERY SECTION ===== -->
+<section class="gallery-section marka"> <div class="gallery-container"> <!-- Title -->   <div class="section-title"> <h2>Corporate Uniforms</h2> </div>
+ <div class="gallery-grid"> <div class="gallery-item gallery-item--large"> <img src="/images/shop/Corporate.png"> </div> 
+ <div class="gallery-item gallery-item--large"> <img src="/images/shop/Corporate 2.png"> </div>
+  <div class="gallery-item gallery-item--large"> <img src="/images/shop/Corporate 3.png"> </div> 
+  <div class="gallery-item gallery-item--small"> <img src="/images/shop/Corporate 4.png"> </div> 
+  <div class="gallery-item gallery-item--small"> <img src="/images/shop/Corporate 5.jpg"> </div> 
+  <div class="gallery-item gallery-item--small"> <img src="/images/corporate-img-2.png"> </div> </div> </div> </section>
+
+<!-- ===== IMAGE ROW SECTION ===== -->
+<section class="image-section">
+ <div class="section-title"> <h2>Fashion Wears</h2> </div>
+
+  <div class="image-row">
+    <div class="image-box"><img src="/images/shop/fashion.png" alt="Image 1"></div>
+    <div class="image-box"><img src="/images/shop/fashion. 2.png" alt="Image 2"></div>
+    <div class="image-box"><img src="/images/shop/fashion. 3.png" alt="Image 3"></div>
+    <div class="image-box"><img src="/images/shop/fashion4.jpg" alt="Image 4"></div>
+    <div class="image-box"><img src="images/122.jpg" alt="Image 5"></div>
+  </div>
+</section>
+
+<!-- ===== GLOBAL STYLES ===== -->
+<style>
+/* ===== UNIFORM SECTION PADDING ===== */
+section, .core-container {
+  padding: 80px 0 50px 0;
+}
+
+/* ===== TITLES ===== */
+.section-title,
+.gallery-title,
+.trend-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+/* ===== FULL IMAGE GRID ===== */
+.full-image-section .image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 220px 390px;
+  gap: 22px;
+}
+
+.full-image-section .img {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.full-image-section img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ===== TREND HERO ===== */
+.trend-hero {
+  background: #f9f9f9;
+}
+
+.trend-images {
+  display: flex;
+  gap: 28px;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.trend-hero .img {
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+.trend-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.small { width: 220px; height: 340px; }
+.tall { width: 260px; height: 420px; }
+.focus { width: 300px; height: 460px; }
+
+.trend-btn {
+  position: absolute;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 25px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+//* ===== CORE OFFERINGS ===== */
+.core-section {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.core-section .section-title h2 {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.img-box {
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.img-box.big {
+  height: 520px;
+}
+
+.right-stack {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  gap: 15px;
+  height: 520px;
+}
+
+.img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.img-box:hover img {
+  transform: scale(1.05);
+}
+
+.img-box::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.25);
+  z-index: 1;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .image-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+ 
+
+  .img-box.big,
+  .right-stack,
+  .right-stack .img-box {
+    height: 300px; /* smaller height for mobile */
+  }
+
+  .right-stack {
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .core-section {
+    padding: 60px 15px;
+  }
+}
+/* ===== GALLERY ===== */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+.gallery-item {
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-item--large { height: 420px; }
+.gallery-item--small { height: 220px; }
+
+/* ===== IMAGE ROW ===== */
+.image-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+.image-box img { width: 100%; height: auto; display: block; border-radius: 6px; object-fit: cover; }
+
+/* ===== FULL-WIDTH LAYOUT FOR SECTIONS (except trend-hero) ===== */
+.full-image-section .container,
+.core-section .core-container,
+.gallery-section .gallery-container,
+.image-section {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 992px) {
+  .trend-title { font-size: 38px; }
+  .trend-images { justify-content: center; gap: 15px; }
+}
+@media screen and (max-width:768px){
+    section.gallery-section.marka {
+    padding: 284px 0px  0px 0px;
+}
+}
+@media (max-width: 900px) {
+  .full-image-section .image-grid,
+  .gallery-grid,
+  .image-row {
+    grid-template-columns: 1fr;
+  }
+
+  .full-image-section .img,
+  .gallery-item--large { height: 240px; }
+  .gallery-item--small { height: 220px; }
+  .image-box { height: auto; }
+}
+</style>
+
+      <!-- Footer Start -->
+     <script>
+fetch('../footer.html')
+  .then(response => response.text())
+  .then(data => {
+    document.getElementById('site-footer').innerHTML = data;
+  })
+  .catch(error => console.error('Error loading footer:', error));
+</script>
+<div id="site-footer"></div>
+      <!-- Footer End -->
+      <!-- Jquery Library File -->
+      <script src="js/jquery-3.7.1.min.js"></script>
+      <!-- Bootstrap js file -->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- Validator js file -->
+      <script src="js/validator.min.js"></script>
+      <!-- SlickNav js file -->
+      <script src="js/jquery.slicknav.js"></script>
+      <!-- Swiper js file -->
+      <script src="js/swiper-bundle.min.js"></script>
+      <!-- Counter js file -->
+      <script src="js/jquery.waypoints.min.js"></script>
+      <script src="js/jquery.counterup.min.js"></script>
+      <!-- Magnific js file -->
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <!-- SmoothScroll -->
+      <script src="js/SmoothScroll.js"></script>
+      <!-- Parallax js -->
+      <script src="js/parallaxie.js"></script>
+      <!-- MagicCursor js file -->
+      <script src="js/gsap.min.js"></script>
+      <!-- Text Effect js file -->
+      <script src="js/SplitText.js"></script>
+      <script src="js/ScrollTrigger.min.js"></script>
+      <!-- YTPlayer js File -->
+      <script src="js/jquery.mb.YTPlayer.min.js"></script>
+      <!-- Audio js File -->
+      <script src="js/plyr.js"></script>
+      <!-- Wow js file -->
+      <script src="js/wow.js"></script>
+      <!-- Select2 js file -->
+      <script src="js/select2.full.min.js"></script>
+      <!-- Main Custom js file -->
+      <script src="js/function.js"></script>
+   <!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+/* Floating Button */
+.enquiry-float-btn{
+  position: fixed;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%) rotate(0deg);
+  transform-origin: right center;
+  background: linear-gradient(135deg,#d32f2f,#841638);
+  color: #fff;
+  padding: 12px 18px;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 10px 10px 0 0;
+  z-index: 99999;
+  box-shadow: -4px 6px 20px rgba(0,0,0,0.25);
+  text-align:center;
+  line-height: 18px;
+}
+
+/* Mobile view – normal horizontal */
+@media screen and (max-width:767px){
+  .enquiry-float-btn{
+    transform: translateY(-50%) rotate(90deg);
+    border-radius: 10px 0 0 10px;
+     right: 5%;
+  }
+}
+
+
+/* Slide Panel */
+.enquiry-slide {
+  position: fixed;
+  top: 50%;
+  right: -400px;
+  transform: translateY(-50%);
+  width: 360px;
+  max-width: 90%;
+  background: #fff;
+  padding: 30px 22px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.25);
+  transition: 0.4s ease;
+  z-index: 100000;
+  border-radius: 12px;
+}
+
+/* Active state */
+.enquiry-slide.active {
+  right: 20px;
+}
+
+/* Title */
+.enquiry-slide h4 {
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #841638;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+/* Inputs */
+.enquiry-slide input,
+.enquiry-slide textarea {
+  width: 100%;
+  margin-bottom: 14px;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.enquiry-slide input:focus,
+.enquiry-slide textarea:focus {
+  border-color: #841638;
+  outline: none;
+}
+
+/* Button */
+.enquiry-slide button {
+  width: 100%;
+  background: linear-gradient(135deg,#d32f2f,#841638);
+  color: #fff;
+  border: none;
+  padding: 13px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.enquiry-slide button:hover {
+  opacity: 0.9;
+}
+
+/* Close */
+.close-enquiry {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 26px;
+  cursor: pointer;
+  color: #841638;
+}

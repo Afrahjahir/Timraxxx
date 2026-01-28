@@ -1,0 +1,1552 @@
+Uri: https://cdn.jsdelivr.net/npm/simple-line-icons/css/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\npm\simple-line-icons\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\npm\simple-line-icons\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/simple-line-icons/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\npm\simple-line-icons\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/simple-line-icons/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\npm\simple-line-icons\fonts\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\npm\simple-line-icons\fonts\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\npm\simple-line-icons\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/corinthia/v13/wEO6EBrAnchaJyPMHE097d8v1A.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\corinthia\v13\wEO6EBrAnchaJyPMHE097d8v1A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/corinthia/v13/wEO_EBrAnchaJyPMHE0FUQ.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\corinthia\v13\wEO_EBrAnchaJyPMHE0FUQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dTA.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\oldstandardtt\v22\MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer1q9.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\oldstandardtt\v22\MwQsbh3o1vLImiwAVvYawgcf2eVer1q9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVurQ.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\s\oldstandardtt\v22\MwQubh3o1vLImiwAVvYawgcf2eVurQ.ttf
+Content Type: font/ttf
+
+Uri: https://goldium-html.wpthemeverse.com/about-us.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\about-us.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-grid.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-grid.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-left-sidebar.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-no-sidebar.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-no-sidebar.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-right-sidebar.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-single.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-single.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-type-quote.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-type-quote.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-type-standard.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-type-standard.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blog-type-video.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blog-type-video.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/blogs.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\blogs.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/cart.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\cart.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/checkout.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\checkout.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/contact.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\contact.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/css/all.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\all.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/animate.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\animate.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/custom.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\custom.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/plyr.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\plyr.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/select2.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\select2.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/select2.min.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\select2.min.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/slicknav.min.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://goldium-html.wpthemeverse.com/downloads.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\downloads.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/edit-account.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\edit-account.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/edit-address.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\edit-address.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/gallery-product.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\gallery-product.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/home-page-2.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\home-page-2.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/images/about-banner-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\about-banner-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/address-bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\address-bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/birthstone_bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\birthstone_bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-image.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-image.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-12.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-12.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-13.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-13.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog-single-9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog-single-9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_details_1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_details_1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_details_2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_details_2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_details_3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_details_3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/blog_list_8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\blog_list_8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_12.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_12.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/client_logo_9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\client_logo_9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/compare-product-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\compare-product-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/compare-product-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\compare-product-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/compare-product-3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\compare-product-3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/compare-product-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\compare-product-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/compare-product-5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\compare-product-5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/compare-product-6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\compare-product-6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/contact-us-img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\contact-us-img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/crafting_1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\crafting_1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/crafting_2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\crafting_2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/crafting_bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\crafting_bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/default_user.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\default_user.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/discover_cross-img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\discover_cross-img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/discover_your_img--2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\discover_your_img--2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/discover_your_img-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\discover_your_img-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/discover_your_ring-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\discover_your_ring-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/footer-top-bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\footer-top-bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery-image-9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery-image-9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img12.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img12.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/gallery_img9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\gallery_img9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hero_img_offer-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hero_img_offer-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/history_hero_img-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\history_hero_img-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home1_hero_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home1_hero_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home1_hero_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home1_hero_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home2_hero_bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home2_hero_bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home2_hero_img5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home2_hero_img5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home2_hero_img6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home2_hero_img6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home2_hero_img7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home2_hero_img7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home_page-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home_page-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/home_page-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\home_page-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image12.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image12.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/hover-image9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\hover-image9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner-page-bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner-page-bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page12.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page12.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/inner_page9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\inner_page9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/jewellary_collection_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\jewellary_collection_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/jewellary_collection_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\jewellary_collection_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/jewellary_collection_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\jewellary_collection_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/jewellary_collection_img4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\jewellary_collection_img4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/jewlery_collection_bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\jewlery_collection_bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/landing-banner-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\landing-banner-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/landing-banner-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\landing-banner-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/landing-banner-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\landing-banner-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/landing-banner-5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\landing-banner-5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/landing_footer_bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\landing_footer_bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/landing_footer_img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\landing_footer_img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/landing_hero_btm.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\landing_hero_btm.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/logo-gold.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\logo-gold.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/logo.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\logo.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look-book_hero_img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look-book_hero_img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/looks_amazing_img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\looks_amazing_img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/look_book_img8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\look_book_img8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/megamenu_home1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\megamenu_home1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/megamenu_home2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\megamenu_home2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/newly_added_img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\newly_added_img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/new_arrivals_img-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\new_arrivals_img-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/offer_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\offer_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/offer_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\offer_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/offer_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\offer_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/our-client-banner-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\our-client-banner-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/our-team_hero_bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\our-team_hero_bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/our_founders1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\our_founders1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/our_founders2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\our_founders2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/our_founders3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\our_founders3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/our_store_hero_bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\our_store_hero_bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/partners-bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\partners-bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/partners-bg1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\partners-bg1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/popular_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\popular_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/popular_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\popular_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/popular_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\popular_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/popular_img4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\popular_img4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img12.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img12.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img13.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img13.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img14.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img14.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img15.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img15.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img16.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img16.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img17.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img17.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img18.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img18.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img19.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img19.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img20.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img20.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img21.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img21.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img22.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img22.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img23.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img23.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img24.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img24.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img25.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img25.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img26.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img26.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img27.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img27.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img28.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img28.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img29.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img29.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img30.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img30.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img31.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img31.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img32.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img32.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img33.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img33.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img34.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img34.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img35.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img35.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img36.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img36.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio-img9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio-img9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio_banner_img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio_banner_img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/portfolio_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\portfolio_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-12.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-12.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-13.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-13.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-14.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-14.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-15.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-15.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-16.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-16.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-17.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-17.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-18.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-18.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-19.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-19.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-20.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-20.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-21.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-21.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-22.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-22.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-23.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-23.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-24.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-24.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-25.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-25.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-26.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-26.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product-9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product-9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/product_img7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\product_img7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/quality-bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\quality-bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/quote-bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\quote-bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/shop-banner.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\shop-banner.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/shop-img-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\shop-img-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/shop-img-3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\shop-img-3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/shop-img-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\shop-img-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/shop_banner.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\shop_banner.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/small-share-icon.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\small-share-icon.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/sparkle_banner-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\sparkle_banner-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/sticky-product-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\sticky-product-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/sticky-product-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\sticky-product-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/sticky-product-3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\sticky-product-3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/sticky-product-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\sticky-product-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/sticky-product-5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\sticky-product-5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/store-bg.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\store-bg.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/store1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\store1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/store2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\store2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/store3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\store3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img10.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img10.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img11.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img11.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img5.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img5.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img6.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img6.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img7.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img7.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img8.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img8.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/team_img9.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\team_img9.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/testimonial-chris.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\testimonial-chris.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/testimonials_bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\testimonials_bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/timeline-img-1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\timeline-img-1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/timeline-img-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\timeline-img-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/timeline-img-3.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\timeline-img-3.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/timeline-img-4.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\timeline-img-4.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/video-img-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\video-img-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/video-play-circle.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\video-play-circle.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/year_experience_img-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\year_experience_img-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/your_destination_img1.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\your_destination_img1.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/your_destination_img2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\your_destination_img2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/your_satisfaction_bg-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\your_satisfaction_bg-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/images/your_satisfaction_img-2.png
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\images\your_satisfaction_img-2.png
+Content Type: image/png
+
+Uri: https://goldium-html.wpthemeverse.com/index.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\index.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/function.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\function.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/jquery.slicknav.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/parallaxie.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\parallaxie.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/plyr.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\plyr.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/SmoothScroll.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/SplitText.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\SplitText.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/validator.min.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/js/wow.js
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\js\wow.js
+Content Type: application/javascript
+
+Uri: https://goldium-html.wpthemeverse.com/landing.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\landing.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/look-book-style-1.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\look-book-style-1.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/look-book-style-2.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\look-book-style-2.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/my-account.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\my-account.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/orders.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\orders.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/our-clients.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\our-clients.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/our-history.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\our-history.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/our-stores.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\our-stores.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/our-team-style-1.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\our-team-style-1.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/our-team-style-2.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\our-team-style-2.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/portfolio-detail.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\portfolio-detail.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/portfolio-style-1.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\portfolio-style-1.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/portfolio-style-2.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\portfolio-style-2.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/portfolio-style-3.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\portfolio-style-3.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/shop-fullwidth-4-columns.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\shop-fullwidth-4-columns.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/shop-list-with-filter.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\shop-list-with-filter.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/shop-single.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\shop-single.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/shop-standard-list.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\shop-standard-list.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/shop.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\shop.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/sticky-product.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\sticky-product.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/variable-product.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\variable-product.html
+Content Type: text/html
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://goldium-html.wpthemeverse.com/wishlist.html
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\wishlist.html
+Content Type: text/html
+
+Uri: https://goldium.wpthemeverse.com/wp-content/uploads/2024/06/video-1.mp4
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\wp-content\uploads\2024\06\video-1.mp4
+Content Type: video/mp4
+
+Uri: https://goldium.wpthemeverse.com/wp-content/uploads/2024/07/video-4.mp4
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\wp-content\uploads\2024\07\video-4.mp4
+Content Type: video/mp4
+
+Uri: https://goldium.wpthemeverse.com/wp-content/uploads/2024/07/video-5.mp4
+File Name: C:\Downloaded Web Sites\goldium-html.wpthemeverse.com\wp-content\uploads\2024\07\video-5.mp4
+Content Type: video/mp4
+

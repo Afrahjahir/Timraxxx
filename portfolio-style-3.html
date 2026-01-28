@@ -1,0 +1,661 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+   <head>
+      <!-- Meta -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="">
+      <meta name="keywords" content="">
+      <meta name="robots" content="max-image-preview:large">
+      <!-- Page Title -->
+      <title>Goldium - Exquisite Jewelry Collections</title>
+      <!-- Favicon Icon -->
+      <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+      <!-- Google Fonts Css-->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="css2-1?family=Jost:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="css2-2?family=Corinthia:wght@400;700&display=swap" rel="stylesheet">
+      <!-- Bootstrap Css -->
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <!-- Simple Line Icons Link -->
+      <link rel="stylesheet" href="npm/simple-line-icons/css/simple-line-icons.css">
+      <!-- SlickNav Css -->
+      <link href="css/slicknav.min.css" rel="stylesheet">
+      <!-- Swiper Css -->
+      <link rel="stylesheet" href="css/swiper-bundle.min.css">
+      <!-- Font Awesome Icon Css-->
+      <link href="css/all.css" rel="stylesheet" media="screen">
+      <!-- Animated Css -->
+      <link href="css/animate.css" rel="stylesheet">
+      <!-- Magnific Popup Core Css File -->
+      <link rel="stylesheet" href="css/magnific-popup.css">
+      <!-- Audio Css File -->
+      <link rel="stylesheet" href="css/plyr.css">
+      <!-- Select2 Css File -->
+      <link rel="stylesheet" href="css/select2.css">
+      <link rel="stylesheet" href="css/select2.min.css">
+      <!-- Main Custom Css -->
+      <link href="css/custom.css" rel="stylesheet" media="screen">
+   </head>
+   <body>
+     <script>
+fetch("header.html")
+  .then(response => response.text())
+  .then(data => {
+    document.getElementById("site-header").innerHTML = data;
+  });
+</script>
+ <div id="site-header"></div>
+  <!-- Banner Section Start -->
+      <div class="sisf-banner position-relative">
+         <div class="banner-img">
+            <figure>
+               <img src="images/about-banner-2.png" alt="Goldium">
+            </figure>
+         </div>
+         <div class="sisf-page-title sisf-m sisf-title--standard sisf-alignment--center">
+            <div class="sisf-m-inner">
+               <div class="sisf-m-content sisf-content-grid ">
+                  <h1 class="sisf-m-title entry-title">About Us</h1>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Banner Section End -->
+ <style>
+/* ===== Container (NO END TO END) ===== */
+.core-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* ===== Image Grid Section ===== */
+.image-grid {
+  display: grid;
+  gap: 15px;
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+
+/* ===== Image box ===== */
+.img-box {
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+/* image */
+.img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+/* ===== Sizes ===== */
+.big {
+  height: 505px;
+}
+
+/* Right side small boxes – FIXED */
+.right-stack {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  height: 520;   /* SAME AS BIG (IMPORTANT) */
+  gap: 15px;
+}
+
+/* ===== Text Overlay ===== */
+.img-text {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  z-index: 2;
+}
+
+/* dark overlay */
+.img-box::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.25);
+  z-index: 1;
+}
+
+/* hover */
+.img-box:hover img {
+  transform: scale(1.05);
+}
+</style>
+
+<!-- ===== TITLE ===== -->
+<div class="sisf-sis-section-title section-title wow fadeInDown marka_shop">
+  <h2 class="sisf-m-title" style="text-align:center;">OUR CORE OFFERINGS</h2>
+  <p class="marka_para">Complete Apparel Solutions Under One Brand</p>
+</div>
+
+<div class="core-container">
+
+  <!-- ===================== -->
+  <!-- LAYOUT 1 -->
+  <!-- ===================== -->
+  <div class="image-grid" style="grid-template-columns: 1fr 1fr 1fr;">
+
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Boys Uniform</div>
+    </div>
+
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Girls Uniform</div>
+    </div>
+
+    <div class="right-stack">
+      <div class="img-box">
+        <img src="images/portfolio-img25.png">
+        <div class="img-text">Shirts</div>
+      </div>
+
+      <div class="img-box">
+        <img src="images/portfolio-img25.png">
+        <div class="img-text">Shorts</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+  <!-- ===================== -->
+  <!-- LAYOUT 3 -->
+  <!-- ===================== -->
+  <!-- <div class="image-grid" style="grid-template-columns: 1fr 1fr;">
+
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Formal Wear</div>
+    </div> -->
+
+    <!-- <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Casual Wear</div>
+    </div> -->
+
+  <!-- </div>
+  
+    <div class="right-stack">
+      <div class="img-box">
+        <img src="images/portfolio-img25.png">
+        <div class="img-text">Shirts</div>
+      </div>
+
+      <div class="img-box">
+        <img src="images/portfolio-img25.png">
+        <div class="img-text">Shorts</div>
+      </div>
+    </div> -->
+
+    <!-- ===================== -->
+  <!-- LAYOUT 2 -->
+  <!-- ===================== -->
+  <!-- <div class="image-grid" style="grid-template-columns: 2fr 1fr;">
+<div class="right-stack">
+      <div class="img-box">
+        <img src="images/portfolio-img25.png">
+        <div class="img-text">Ties</div>
+      </div>
+
+      <div class="img-box">
+        <img src="images/portfolio-img25.png">
+        <div class="img-text">Belts</div>
+      </div>
+    </div>
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">School Uniforms</div>
+    </div>
+
+    
+
+  </div> -->
+
+
+  <!-- ===================== -->
+  <!-- LAYOUT 4 -->
+  <!-- ===================== -->
+  <!-- <div class="image-grid" style="grid-template-columns: 1fr 1fr 1fr;">
+
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Kids Uniform</div>
+    </div>
+
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Sports Wear</div>
+    </div>
+
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Accessories</div>
+    </div>
+
+  </div>
+
+</div> -->
+<div class="row g-3"> <!-- g-3 is gap -->
+  <div class="col-md-4">
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Boys Uniform</div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-4">
+ <div class="col-md-2">
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Girls Uniform</div>
+    </div>
+  </div>
+<div class="col-md-2">
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Girls Uniform</div>
+    </div>
+  </div>
+  </div>
+  </div>
+  <div class="col-md-4">
+    <div class="img-box big">
+      <img src="images/portfolio-img25.png">
+      <div class="img-text">Shirts / Shorts Stack</div>
+    
+    </div>
+  </div>
+</div>
+     <!-- Portfolio List Section Start -->
+      <div class="portfolio-list-section section">
+         <div class="container-fluid">
+            <div class="row">
+               <div class="col-lg-3 col-md-6">
+                  <div class="sisf-e sisf-grid-item portfolio wow fadeInUp">
+                     <div class="sisf-e-inner position-relative">
+                        <div class="sisf-e-image">
+                           <div class="sisf-e-media-image">
+                              <a href="portfolio-detail.html">
+                              <img src="images/portfolio-img1.png" alt="Goldium">		
+                              </a>
+                           </div>
+                        </div>
+                        <div class="sisf-e-content">
+                           <h4 class="sisf-e-title entry-title">
+                              <a class="sisf-e-title-link" href="portfolio-detail.html">
+                              Innovative Collection			
+                              </a>
+                           </h4>
+                           <div class="sisf-portfolio-category">
+                              <span class="sisf-name mb-0">
+                              <a href="blog-single.html">Right Piece</a>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3 col-md-6">
+                  <div class="sisf-e sisf-grid-item portfolio wow fadeInUp">
+                     <div class="sisf-e-inner position-relative">
+                        <div class="sisf-e-image">
+                           <div class="sisf-e-media-image">
+                              <a href="portfolio-detail.html">
+                              <img src="images/portfolio-img2.png" alt="Goldium">		
+                              </a>
+                           </div>
+                        </div>
+                        <div class="sisf-e-content">
+                           <h4 class="sisf-e-title entry-title">
+                              <a class="sisf-e-title-link" href="portfolio-detail.html">
+                              Exquisite Designs		
+                              </a>
+                           </h4>
+                           <div class="sisf-portfolio-category">
+                              <span class="sisf-name mb-0">
+                              <a href="blog-single.html">Accessories</a>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3 col-md-6">
+                  <div class="sisf-e sisf-grid-item portfolio wow fadeInUp">
+                     <div class="sisf-e-inner position-relative">
+                        <div class="sisf-e-image">
+                           <div class="sisf-e-media-image">
+                              <a href="portfolio-detail.html">
+                              <img src="images/portfolio-img3.png" alt="Goldium">		
+                              </a>
+                           </div>
+                        </div>
+                        <div class="sisf-e-content">
+                           <h4 class="sisf-e-title entry-title">
+                              <a class="sisf-e-title-link" href="portfolio-detail.html">
+                              Elegant Collection			
+                              </a>
+                           </h4>
+                           <div class="sisf-portfolio-category">
+                              <span class="sisf-name mb-0">
+                              <a href="blog-single.html">Earrings</a>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3 col-md-6">
+                  <div class="sisf-e sisf-grid-item portfolio wow fadeInUp">
+                     <div class="sisf-e-inner position-relative">
+                        <div class="sisf-e-image">
+                           <div class="sisf-e-media-image">
+                              <a href="portfolio-detail.html">
+                              <img src="images/portfolio-img4.png" alt="Goldium">		
+                              </a>
+                           </div>
+                        </div>
+                        <div class="sisf-e-content">
+                           <h4 class="sisf-e-title entry-title">
+                              <a class="sisf-e-title-link" href="portfolio-detail.html">
+                              Artistry Creations		
+                              </a>
+                           </h4>
+                           <div class="sisf-portfolio-category">
+                              <span class="sisf-name mb-0">
+                              <a href="blog-single.html">Earrings</a>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+      <!-- Footer Start -->
+      <footer class="main-footer">
+         <div id="sisf-page-footer-top-area-inner" class="footer-top-area-inner footer-top--area-inner sisf-content-full-width">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-6 ms-auto me-auto">
+                     <h5 class="text-center mb-4">Subscribe now to FOR updates and exclusive offers!</h5>
+                     <div class="subscription-container text-center mt-4">
+                        <form class="d-flex justify-content-center align-items-center">
+                           <input type="email" class="form-control" placeholder="Your email" aria-label="Your email">
+                           <button type="submit" class="btn btn-link ms-2">SUBSCRIBE</button>
+                        </form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="sisf-page-footer-middle-area">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-4 col-12">
+                     <div class="footer-logo">
+                        <a href="index.html">
+                        <img src="images/logo.png" alt="Goldium">
+                        </a>
+                     </div>
+                     <div class="text">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
+                     </div>
+                     <!-- Footer Social Link Start -->
+                     <div class="footer-social-links">
+                        <ul>
+                           <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                           <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                           <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                           <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+                        </ul>
+                     </div>
+                     <!-- Footer Social Link End -->
+                  </div>
+                  <div class="col-lg-3 col-12">
+                     <!-- Links Start -->
+                     <div class="footer-links">
+                        <h3>Customer Service</h3>
+                        <ul>
+                           <li><a href="#">Track Your Order</a></li>
+                           <li><a href="#">Product Care & Repair</a></li>
+                           <li><a href="#">Book an Appointment</a></li>
+                           <li><a href="#">Frequently Asked Questions</a></li>
+                           <li><a href="#">Shipping & Returns</a></li>
+                        </ul>
+                     </div>
+                     <!-- Links End -->
+                  </div>
+                  <div class="col-lg-2 col-12">
+                     <!-- Links Start -->
+                     <div class="footer-links">
+                        <h3>Links</h3>
+                        <ul>
+                           <li><a href="index.html">Home</a></li>
+                           <li><a href="about-us.html">About Us</a></li>
+                           <li><a href="shop.html">Shop</a></li>
+                           <li><a href="blogs.html">Blogs</a></li>
+                           <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                     </div>
+                     <!-- Links End -->
+                  </div>
+                  <div class="col-lg-3 col-12">
+                     <!-- Footer Contact Details Start -->  
+                     <div class="footer-contact">
+                        <h3>Contact</h3>
+                        <div class="footer-contact-details">
+                           <!-- Footer Info Box Start -->
+                           <div class="footer-info-box">
+                              <p>361 Avisco Green St,<br>
+                                 Lovaso Avenue, Los Angeles <br>
+                                 90251, US
+                              </p>
+                           </div>
+                           <!-- Footer Info Box End -->
+                        </div>
+                        <p class="mt-3 mb-3">Tel: +1 5263 2540 981 </p>
+                        <p class="mb-0">info@goldium.com</p>
+                     </div>
+                     <!-- Footer Contact Details End -->     
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="sisf-page-footer-bottom-area">
+            <div class="container">
+               <!-- Footer Copyright Section Start -->
+               <div class="footer-copyright">
+                  <div class="row align-items-center">
+                     <div class="col-lg-6 col-md-6">
+                        <!-- Footer Copyright Start -->
+                        <div class="footer-copyright-text">
+                           <p>&copy; Goldium. All Rights Reserved.</p>
+                        </div>
+                        <!-- Footer Copyright End -->
+                     </div>
+                     <div class="col-lg-6 col-md-6">
+                        <!-- Footer Privacy Link Start -->  
+                        <div class="footer-privacy-policy">
+                           <ul>
+                              <li><a href="#" class="text-black">Privacy Policy</a></li>
+                           </ul>
+                        </div>
+                        <!-- Footer Privacy Link End -->   
+                     </div>
+                  </div>
+               </div>
+               <!-- Footer Copyright Section End -->
+            </div>
+         </div>
+      </footer>
+    
+      <!-- Footer End -->
+      <!-- Jquery Library File -->
+      <script src="js/jquery-3.7.1.min.js"></script>
+      <!-- Bootstrap js file -->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- Validator js file -->
+      <script src="js/validator.min.js"></script>
+      <!-- SlickNav js file -->
+      <script src="js/jquery.slicknav.js"></script>
+      <!-- Swiper js file -->
+      <script src="js/swiper-bundle.min.js"></script>
+      <!-- Counter js file -->
+      <script src="js/jquery.waypoints.min.js"></script>
+      <script src="js/jquery.counterup.min.js"></script>
+      <!-- Magnific js file -->
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <!-- SmoothScroll -->
+      <script src="js/SmoothScroll.js"></script>
+      <!-- Parallax js -->
+      <script src="js/parallaxie.js"></script>
+      <!-- MagicCursor js file -->
+      <script src="js/gsap.min.js"></script>
+      <!-- Text Effect js file -->
+      <script src="js/SplitText.js"></script>
+      <script src="js/ScrollTrigger.min.js"></script>
+      <!-- YTPlayer js File -->
+      <script src="js/jquery.mb.YTPlayer.min.js"></script>
+      <!-- Audio js File -->
+      <script src="js/plyr.js"></script>
+      <!-- Wow js file -->
+      <script src="js/wow.js"></script>
+      <!-- Select2 js file -->
+      <script src="js/select2.full.min.js"></script>
+      <!-- Main Custom js file -->
+      <script src="js/function.js"></script>
+   <!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>
